@@ -1,0 +1,151 @@
+[WARNING]2023-10-09 14:51:28,668 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 14:51:28,671 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 14:51:28,671 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 14:51:28,758 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 14:51:31,264 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 14:51:31,268 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 14:51:31,268 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 14:51:31,268 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 14:51:37,960 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 14:51:37,960 - JsonInteractor.py:13 - Input Json:{"userId": "12345", "gradeType": 8, "questionId": "3394713", "question": "None", "maxScore": 3.0, "stdScore": 2, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}], "rightAnswerContent": [{"id": 0, "text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，", "score": 1.0, "keyWord": ""}, {"id": 1, "text": "为下文小女孩的出场作铺垫。", "score": 1.0, "keyWord": ""}, {"id": 2, "text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ", "score": 1.0, "keyWord": ""}]}
+[WARNING]2023-10-09 14:51:37,994 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 14:51:37,994 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 14:51:37,994 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[WARNING]2023-10-09 14:53:04,896 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 14:53:04,896 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 14:53:04,896 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 14:53:04,908 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 14:53:06,897 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 14:53:06,901 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 14:53:06,901 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 14:53:06,901 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 14:53:07,092 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 14:53:07,092 - JsonInteractor.py:13 - Input Json:{"userId": "12345", "gradeType": 8, "questionId": "3394713", "question": "None", "maxScore": 3.0, "stdScore": 2, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}], "rightAnswerContent": [{"id": 0, "text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，", "score": 1.0, "keyWord": ""}, {"id": 1, "text": "为下文小女孩的出场作铺垫。", "score": 1.0, "keyWord": ""}, {"id": 2, "text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ", "score": 1.0, "keyWord": ""}]}
+[WARNING]2023-10-09 14:53:07,124 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 14:53:07,124 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 14:53:07,124 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[ERROR]2023-10-09 14:53:07,124 - JsonInteractor.py:15 - input json:{"userId":"stu1","liveId":"live1","deviceId":0,"gradeType":9,"questionId":"1974977","question":"2. 阅读下面的宋词，完成下列小题。
+ 清平乐·检校山园书所见 
+ 辛弃疾 
+连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。
+ 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","questionType":"这首词抒发了作者哪些情感？","maxScore":1.0,"multiAnswerType":1,"userAnswerContent":[{"id":0,"text":"抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}],"rightAnswerContent":[{"id":0,"text":"①对松竹的赞赏之情；","score":1,"keyWord":""},{"id":1,"text":"②对生活的满足之情；","score":1,"keyWord":""}]} is not valid, please check input
+[ERROR]2023-10-09 14:53:07,124 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 14:53:07,124 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 14:53:38,515 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 14:53:38,515 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 14:53:38,515 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 14:53:38,527 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 14:53:40,418 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 14:53:40,422 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 14:53:40,422 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 14:53:40,422 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 14:53:40,606 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 14:53:40,606 - JsonInteractor.py:13 - Input Json:{"userId": "12345", "gradeType": 8, "questionId": "3394713", "question": "None", "maxScore": 3.0, "stdScore": 2, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}], "rightAnswerContent": [{"id": 0, "text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，", "score": 1.0, "keyWord": ""}, {"id": 1, "text": "为下文小女孩的出场作铺垫。", "score": 1.0, "keyWord": ""}, {"id": 2, "text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ", "score": 1.0, "keyWord": ""}]}
+[WARNING]2023-10-09 14:53:40,637 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 14:53:40,637 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 14:53:40,637 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[ERROR]2023-10-09 14:53:40,637 - JsonInteractor.py:15 - input json:{"userId":"stu1","liveId":"live1","deviceId":0,"gradeType":9,"questionId":"1974977","question":"2. 阅读下面的宋词，完成下列小题。
+ 清平乐·检校山园书所见 
+ 辛弃疾 
+连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。
+ 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","questionType":"这首词抒发了作者哪些情感？","maxScore":1.0,"multiAnswerType":1,"userAnswerContent":[{"id":0,"text":"抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}],"rightAnswerContent":[{"id":0,"text":"①对松竹的赞赏之情；","score":1,"keyWord":""},{"id":1,"text":"②对生活的满足之情；","score":1,"keyWord":""}]} is not valid, please check input
+[ERROR]2023-10-09 14:53:40,637 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 14:53:40,637 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 14:54:45,154 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 14:54:45,154 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 14:54:45,154 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 14:54:45,166 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 14:54:47,043 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 14:54:47,047 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 14:54:47,047 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 14:54:47,047 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 14:54:47,278 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 14:54:47,278 - JsonInteractor.py:13 - Input Json:{"userId": "12345", "gradeType": 8, "questionId": "3394713", "question": "None", "maxScore": 3.0, "stdScore": 2, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}], "rightAnswerContent": [{"id": 0, "text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，", "score": 1.0, "keyWord": ""}, {"id": 1, "text": "为下文小女孩的出场作铺垫。", "score": 1.0, "keyWord": ""}, {"id": 2, "text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ", "score": 1.0, "keyWord": ""}]}
+[WARNING]2023-10-09 14:54:47,312 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 14:54:47,312 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 14:54:47,312 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[WARNING]2023-10-09 14:54:47,312 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 14:54:47,312 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 14:54:47,312 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 14:54:47,312 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:01:41,984 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 15:01:42,013 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 15:01:42,013 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 15:01:42,059 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/batch_autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 15:01:46,425 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 15:01:46,436 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 15:01:46,436 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 15:01:46,436 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 15:01:48,878 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 15:01:48,878 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 15:01:48,878 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:01:48,878 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 15:01:48,878 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:01:48,878 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 15:01:48,878 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:01:48,878 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 15:01:48,878 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:01:48,878 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:01:58,266 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 15:01:58,266 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 15:01:58,266 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 15:01:58,278 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/batch_autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 15:02:00,166 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 15:02:00,170 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 15:02:00,170 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 15:02:00,170 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 15:02:00,367 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 15:02:00,367 - JsonInteractor.py:13 - Input Json:{"userId": "12345", "gradeType": 8, "questionId": "3394713", "question": "None", "maxScore": 3.0, "stdScore": 2, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}], "rightAnswerContent": [{"id": 0, "text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，", "score": 1.0, "keyWord": ""}, {"id": 1, "text": "为下文小女孩的出场作铺垫。", "score": 1.0, "keyWord": ""}, {"id": 2, "text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ", "score": 1.0, "keyWord": ""}]}
+[WARNING]2023-10-09 15:02:00,424 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 15:02:00,425 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 15:02:00,425 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[ERROR]2023-10-09 15:02:00,425 - JsonInteractor.py:15 - input json:{"userId":"stu1","liveId":"live1","deviceId":0,"gradeType":9,"questionId":"1974977","question":"2. 阅读下面的宋词，完成下列小题。
+ 清平乐·检校山园书所见 
+ 辛弃疾 
+连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。
+ 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","questionType":"这首词抒发了作者哪些情感？","maxScore":1.0,"multiAnswerType":1,"userAnswerContent":[{"id":0,"text":"抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}],"rightAnswerContent":[{"id":0,"text":"①对松竹的赞赏之情；","score":1,"keyWord":""},{"id":1,"text":"②对生活的满足之情；","score":1,"keyWord":""}]} is not valid, please check input
+[ERROR]2023-10-09 15:02:00,425 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:02:00,425 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:02:00,425 - JsonInteractor.py:13 - Input Json:{"userId": "12345","gradeType": 8,"questionId": "3394713","question": "None","maxScore": 3.0,"stdScore": 2,"userAnswerContent": [{"id": 0,"text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}],"rightAnswerContent": [{"id": 0,"text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，","score": 1.0,"keyWord": ""}, {"id": 1,"text": "为下文小女孩的出场作铺垫。","score": 1.0,"keyWord": ""}, {"id": 2,"text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ","score": 1.0,"keyWord": ""}]}
+[WARNING]2023-10-09 15:02:00,455 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 15:02:00,456 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 15:02:00,456 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[WARNING]2023-10-09 15:02:00,456 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 15:02:00,456 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 15:02:00,456 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:02:00,456 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:02:21,408 - SubjectScorer.py:37 - JsonInteractor init success!
+[WARNING]2023-10-09 15:02:21,408 - SubjectScorer.py:51 - all paths check success!
+[WARNING]2023-10-09 15:02:21,408 - SubjectScorer.py:57 - tools init success!
+[WARNING]2023-10-09 15:02:21,420 - FileLoader.py:112 - sim dict file: /home/luozhuoqing1/project/batch_autoassement_forchinesesubject/SubjectScorer/data/seg_pairs_sim.txt is null!
+[WARNING]2023-10-09 15:02:23,302 - SubjectScorer.py:67 - FileLoader init success!
+[WARNING]2023-10-09 15:02:23,306 - SubjectScorer.py:75 - Thesaurus init success!
+[WARNING]2023-10-09 15:02:23,306 - SubjectScorer.py:83 - Antonyms init success!
+[WARNING]2023-10-09 15:02:23,306 - SubjectScorer.py:91 - RF init success!
+[WARNING]2023-10-09 15:02:23,498 - SubjectScorer.py:114 - ltp init success!
+[WARNING]2023-10-09 15:02:23,498 - JsonInteractor.py:13 - Input Json:{"userId": "12345", "gradeType": 8, "questionId": "3394713", "question": "None", "maxScore": 3.0, "stdScore": 2, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}], "rightAnswerContent": [{"id": 0, "text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，", "score": 1.0, "keyWord": ""}, {"id": 1, "text": "为下文小女孩的出场作铺垫。", "score": 1.0, "keyWord": ""}, {"id": 2, "text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ", "score": 1.0, "keyWord": ""}]}
+[WARNING]2023-10-09 15:02:23,531 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 15:02:23,531 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 15:02:23,531 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[ERROR]2023-10-09 15:02:23,531 - JsonInteractor.py:15 - input json:{"userId":"stu1","liveId":"live1","deviceId":0,"gradeType":9,"questionId":"1974977","question":"2. 阅读下面的宋词，完成下列小题。
+ 清平乐·检校山园书所见 
+ 辛弃疾 
+连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。
+ 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","questionType":"这首词抒发了作者哪些情感？","maxScore":1.0,"multiAnswerType":1,"userAnswerContent":[{"id":0,"text":"抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}],"rightAnswerContent":[{"id":0,"text":"①对松竹的赞赏之情；","score":1,"keyWord":""},{"id":1,"text":"②对生活的满足之情；","score":1,"keyWord":""}]} is not valid, please check input
+[ERROR]2023-10-09 15:02:23,531 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:02:23,531 - JsonInteractor.py:165 - handle output failed, error code:300034022
+[WARNING]2023-10-09 15:02:23,531 - JsonInteractor.py:13 - Input Json:{"userId": "12345","gradeType": 8,"questionId": "3394713","question": "None","maxScore": 3.0,"stdScore": 2,"userAnswerContent": [{"id": 0,"text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。"}],"rightAnswerContent": [{"id": 0,"text": "画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，","score": 1.0,"keyWord": ""}, {"id": 1,"text": "为下文小女孩的出场作铺垫。","score": 1.0,"keyWord": ""}, {"id": 2,"text": "表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 ","score": 1.0,"keyWord": ""}]}
+[WARNING]2023-10-09 15:02:23,562 - SubjectScorer.py:413 - final score: 1
+[WARNING]2023-10-09 15:02:23,562 - SubjectScorer.py:435 - ####-12345	3394713	画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人， | 为下文小女孩的出场作铺垫。 | 表达了作者漫步秦岭时的愉悦心情，表现了秦岭深处美好的景色。 	用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。	3.0	2	1.0	P0U0:keyword_match|
+[WARNING]2023-10-09 15:02:23,563 - SubjectScorer.py:471 - Output Json:{"code": 300034020, "msg": "success", "requestId": "", "data": {"totalScore": 1.0, "userAnswerContent": [{"id": 0, "text": "用了比喻的修辞手法，把小河比作镜、绸、母亲，写出了 小河的喜爱之情。", "score": 1.0, "matchedAnswerInfo": ["画线句子使用了比喻的手法。将河水比作明镜和绸缎，流水声比作母亲的呢喃，生动形象地写出了秦岭自然风光美丽动人，"]}]}}
+[WARNING]2023-10-09 15:02:23,563 - JsonInteractor.py:13 - Input Json:{"multiAnswerType":3, "userId": "stu1", "question": "2. 阅读下面的宋词，完成下列小题。\n 清平乐·检校山园书所见 \n 辛弃疾 \n连云松竹，万事从今足。拄杖东家分社肉，白酒床头初熟。\n 西风梨枣山园，儿童偷把长竿。莫遣旁人惊去，老夫静处闲看。","maxScore": 1.0,"questionId": "1974977","gradeType": 9,  "rightAnswerContent": [{"score": 1, "id": 0, "text": "①对松竹的赞赏之情；"}, {"score": 1, "id": 1, "text": "②对生活的满足之情；"}],"userAnswerContent": [{"id": 0, "text": "抒发了作者闲适，对乡村生活的喜爱之情，对松竹的喜爱之情。"}]}
+[ERROR]2023-10-09 15:02:23,563 - JsonInteractor.py:82 - input json's multiAnswerType is not valid!
+[ERROR]2023-10-09 15:02:23,563 - SubjectScorer.py:448 - input json is not valid
+[ERROR]2023-10-09 15:02:23,563 - JsonInteractor.py:165 - handle output failed, error code:300034022
